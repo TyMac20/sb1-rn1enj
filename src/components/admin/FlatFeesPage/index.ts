@@ -1,0 +1,1 @@
+export { FlatFeesPage } from './FlatFeesPage';
